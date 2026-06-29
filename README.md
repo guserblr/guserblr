@@ -1,5 +1,9 @@
 ### hey, I'm guserblr 👋
-
+<p align="left">
+  <img src="https://img.shields.io/github/stars/guserblr/il-tempo-global?style=for-the-badge&color=00ffcc&logo=github" alt="Repo Stars" />
+  <img src="https://img.shields.io/github/languages/top/guserblr/il-tempo-global?style=for-the-badge&color=7928CA" alt="Top Language" />
+  <img src="https://img.shields.io/badge/Lichess-Pikachu__75-000000?style=for-the-badge&logo=lichess&logoColor=white" alt="Lichess" />
+</p>
 *POV: tryna act like a software engineer!* (when your actually a 12year old \'_'/ )
 
 ---
